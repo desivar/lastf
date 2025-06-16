@@ -6,7 +6,7 @@ const mockUser = {
   id: 1,
   name: "Desire Developer",
   email: "desi@example.com",
-  avatar: "https://github.com/desivar/Portfolio/blob/main/images/coding.jpeg",
+  avatar: "https://github.com/desivar/Portfolio/blob/main/images/cod2.jpg",
   githubUsername: "desivar"
 };
 
