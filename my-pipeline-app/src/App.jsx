@@ -4,10 +4,10 @@ import { User, Plus, Settings, LogOut, Briefcase, Users, GitBranch, FileText, Up
 // Mock data for development
 const mockUser = {
   id: 1,
-  name: "John Developer",
-  email: "john@example.com",
-  avatar: "https://avatars.githubusercontent.com/u/1?v=4",
-  githubUsername: "johndeveloper"
+  name: "Desire Developer",
+  email: "desi@example.com",
+  avatar: "https://github.com/desivar/Portfolio/blob/main/images/coding.jpeg",
+  githubUsername: "desivar"
 };
 
 const mockPipelines = [
