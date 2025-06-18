@@ -8,7 +8,7 @@ const mockUser = {
   id: 1,
   name: "Desire Developer",
   email: "dei@example.com",
-  avatar: "https://avatars.githubusercontent.com/u/1?v=4",
+  avatar: "https://avatars.githubusercontent.com/u/1?v=4", // A more generic avatar link
   githubUsername: "desivar"
 };
 
