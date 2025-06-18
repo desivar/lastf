@@ -7,8 +7,8 @@ import { User, Plus, Settings, LogOut, Briefcase, Users, GitBranch, FileText, Up
 const mockUser = {
   id: 1,
   name: "Desire Developer",
-  email: "dei@example.com",
-  avatar: "https://avatars.githubusercontent.com/u/1?v=4", // A more generic avatar link
+  email: "desi@example.com",
+  avatar: "https://github.com/desivar/lastf/blob/main/my-pipeline-app/public/cod2.jpg", // A more generic avatar link
   githubUsername: "desivar"
 };
 
