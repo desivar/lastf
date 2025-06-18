@@ -1,3 +1,5 @@
+
+
 import React, { useState, useEffect } from 'react';
 import { User, Plus, Settings, LogOut, Briefcase, Users, GitBranch, FileText, Upload, MessageSquare, Calendar, ChevronRight, Search, Filter, Bell } from 'lucide-react';
 
@@ -5,8 +7,8 @@ import { User, Plus, Settings, LogOut, Briefcase, Users, GitBranch, FileText, Up
 const mockUser = {
   id: 1,
   name: "Desire Developer",
-  email: "desi@example.com",
-  avatar: "https://github.com/desivar/Portfolio/blob/main/images/cod2.jpg",
+  email: "dei@example.com",
+  avatar: "https://avatars.githubusercontent.com/u/1?v=4",
   githubUsername: "desivar"
 };
 
